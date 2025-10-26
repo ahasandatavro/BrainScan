@@ -1,2 +1,2 @@
-# BrainScan
+# pcos-detector-app
 
